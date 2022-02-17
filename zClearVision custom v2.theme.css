@@ -213,7 +213,7 @@ fill: rgba(255, 255, 255, 0.8);
 
 
 /* #region New message counter notification color */
-.numberBadge-2s8kKX {
+.numberBadge-37OJ3S, .textBadge-1fdDPJ {
 	background: rgba(234, 69, 69, 255) !important;
 	box-shadow: 0 0 10px -3px black, 0 0 0 1px black;
 	color: #fff;
